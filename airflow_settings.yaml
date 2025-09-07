@@ -13,7 +13,7 @@ airflow:
       conn_schema:
       conn_login:
       conn_password:
-      conn_port:
+      conn_port: 5434
       conn_extra:
         example_extra_field: example-value
   pools:
